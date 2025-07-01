@@ -11,6 +11,7 @@ function App() {
 
   return (
     <div>
+      <a href='https://github.com/aegerev/win10-conditional-rendering'>VIEW GITHUB</a>
         <h1>Saying Goodbye To A 10-Year-Old OS</h1>
         {isSubscribed ? (
           <SubscribedContent />
@@ -59,7 +60,7 @@ function SubscribedContent() {
 
       <p>Windows 11 features include: 
         <ul>
-          <li>SECURITY, 1000TH GEAR: Modernizing to Windows 11 provides a secure environment with advanced security features like TPM 2.0, virtualization-based security and the vulnerable driver block list enabled by default, as well as Smart App Control which is available on new installations of Windows 11 on any PC. New Windows 11 PCs are more secure, with a reported 62% drop in security incidents and 3x reported reduction in firmware attacks.4 At a premium price, Copilot+ PCs deliver even more protection, including memory-based integrity, Secured-core PC capabilities, Windows Hello Enhanced Sign-in Security and the built-in Microsoft Pluton Security processor.</li>
+          <li>SECURITY, 1000TH GEAR: Modernizing to Windows 11 provides a secure environment with advanced security features like TPM 2.0, virtualization-based security and the vulnerable driver block list enabled by default, as well as Smart App Control which is available on new installations of Windows 11 on any PC. New Windows 11 PCs are more secure, with a reported 62% drop in security incidents and 3x reported reduction in firmware attacks. At a premium price, Copilot+ PCs deliver even more protection, including memory-based integrity, Secured-core PC capabilities, Windows Hello Enhanced Sign-in Security and the built-in Microsoft Pluton Security processor.</li>
 
           <br/>
 
@@ -142,7 +143,7 @@ function SubscribedContent() {
 
       <p>Finding the right Windows 11 PC for you is easy with Help me Choose, a simple tool to help you find the right new PC for you. </p>
 
-      <p>When you are ready to purchase a new Windows 11 PC, we encourage you to leverage trade-in5 and recycling6 programs available at many of our Windows ecosystem partners including, OEMs such as Acer, ASUS, Dell, HP, Lenovo, Samsung and global retailers like Best Buy, Boulanger, Costco, Currys, Elkjøp, Fnac, Harvey Norman, JB Hi-Fi, MediaMarkt & SATURN, officeworks, Sharaf DG and Walmart. Our business customers have access to programs available through resellers such as Bechtle, CDW, ComputaCenter, Connection, SHI and more. </p>
+      <p>When you are ready to purchase a new Windows 11 PC, consider trade-in and recycling programs available at many Windows ecosystem partners including OEMs such as Acer, ASUS, Dell, HP, Lenovo, Samsung and global retailers like Best Buy, Boulanger, Costco, Currys, Elkjøp, Fnac, Harvey Norman, JB Hi-Fi, MediaMarkt & SATURN, officeworks, Sharaf DG and Walmart. Business customers have access to programs available through resellers such as Bechtle, CDW, ComputaCenter, Connection, SHI and more. </p>
       
       <br/> <br/> <br/> <br/> <br/>
 
